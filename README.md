@@ -1,4 +1,4 @@
-                                                               Fake News Detection with SVM
+                                                            Fake News Detection with SVM
 
 • Overview :
 
